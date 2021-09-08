@@ -13,8 +13,13 @@ fakta
 
 horsy
 
+
+dav
+
 crack
 duck
+
+goose
 
 stone
 table
