@@ -16,6 +16,8 @@ horsy
 crack
 duck
 
+goose
+
 stone
 table
 
